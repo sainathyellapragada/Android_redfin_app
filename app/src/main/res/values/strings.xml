@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Android_redfin_app</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_maps">Map</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string-array name="property_category">
+        <item>Rent</item>
+        <item>Sale</item>
+        <item>Lease</item>
+        <item>Rented Out</item>
+    </string-array>
+
+
+    <string-array name="property_type">
+        <item>Single Family Home</item>
+        <item>Multi Family</item>
+        <item>Town House</item>
+        <item>Apartment</item>
+        <item>Condomenium</item>
+    </string-array>
+
+    <string-array name="property_name">
+        <item>Home</item>
+        <item>Restaurent</item>
+        <item>Gaming Center</item>
+        <item>Horror House</item>
+    </string-array>
+
+</resources>
